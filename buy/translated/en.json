@@ -1,0 +1,696 @@
+{
+    "word": {
+        "en": "buy"
+    },
+    "pronounciation": {
+        "phonetics": "seɪl",
+        "brefile": "breProns/brelasdesale.mp3",
+        "amefile": "ameProns/sail1.mp3"
+    },
+    "frequency": {
+        "general": {
+            "en": "Core vocabulary: High-frequency"
+        }
+    },
+    "translation": [
+        {
+            "pos": {
+                "en": "noun"
+            },
+            "definitions": [
+                {
+                    "type": {
+                        "en": "countable, uncountable"
+                    },
+                    "definition": {
+                        "en": "when you sell something"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Harvey gets a $50 commission every time he makes a sale  (=sells something as part of his job)."
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-001640653.mp3"
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "Car salesmen will often bring down the price rather than lose a sale  (=fail to sell something)."
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-001640658.mp3"
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "arms sales to Iran"
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-001640663.mp3"
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "The use and sale of marijuana remains illegal."
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-000741140.mp3"
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "countable"
+                    },
+                    "definition": {
+                        "en": "a period of time when shops sell their goods at lower prices than usual"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Marsdon’s department store is having a sale this week."
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-001640706.mp3"
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "I picked up some real bargains in the January sales this year."
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-000741174.mp3"
+                            },
+                            "note": {
+                                "type": "collocation",
+                                "text": {
+                                    "en": "the sales"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "countable"
+                    },
+                    "definition": {
+                        "en": "an event at which things are sold to the person who offers the highest price"
+                    },
+                    "synonym": {
+                        "en": "auction"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "a sale of 17th-century paintings"
+                            },
+                            "audio": {
+                                "en": "exaProns/p008-000741185.mp3"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "note_box": [
+                {
+                    "type": "collo_box",
+                    "heading": {
+                        "en": "– Meaning 1: when you sell something"
+                    },
+                    "sections": [
+                        {
+                            "form": {
+                                "en": "verbs"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "make a sale"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "A salesman may communicate perfectly well with a customer but fail to make a sale."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "lose a sale"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Harry lost the sale because he was not persistent enough."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "form": {
+                                "en": "adjectives"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "a quick sale"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "He wants a quick sale, so he might reduce the price."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "collo_box",
+                    "heading": {
+                        "en": "– Meaning 2:"
+                    },
+                    "sections": [
+                        {
+                            "form": {
+                                "en": "ADJECTIVES/NOUN + sales"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "strong"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The company has reported continuing strong sales."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "disappointing"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Sales for the first three months of this year were disappointing."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "record sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The Ford Fiesta has achieved record sales in Italy."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "car/ticket/book etc sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Car sales have fallen every month for the past two years."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "annual sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The company has annual sales of over $300 million."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "worldwide sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Worldwide sales of wine are increasing."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "retail sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The volume of retail sales was 0.3 percent higher than in the previous quarter."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "export sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Export sales rose for the sixth consecutive month."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "high-street sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Last month saw record high-street sales."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "form": {
+                                "en": "verbs"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "sales increase/rise/grow/go up"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Sales rose by 9% last year."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "sales fall/drop/go down"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "European sales have fallen by 12%."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "sales improve"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Sales are expected to improve over the coming year."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "sales soar"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Computer sales soared as prices continued to come down."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "sales slump"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Meat sales have slumped following the most recent health scare."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "form": {
+                                "en": "sales + NOUN"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "sales figures"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The company said its sales figures continued to show growth."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "a sales target"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "It achieved only 20% of its sales target."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "the sales force"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The sales force had grown from 40 to 270."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "sales performance"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "There has been an encouraging improvement in sales performance."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "the sales forecast"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The sales forecast is for a 12% increase in sales over the current year."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "form": {
+                                "en": "phrases"
+                            },
+                            "items": [
+                                {
+                                    "collocation": {
+                                        "en": "an increase/growth in sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "The company is expecting a 20% increase in sales next year."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "a fall/drop in sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Some jobs may be cut following a big drop in sales."
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "collocation": {
+                                        "en": "the volume of sales"
+                                    },
+                                    "example": [
+                                        {
+                                            "text": {
+                                                "en": "Because of its high volume of sales, the company can keep prices low."
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "pos": {
+                "en": "noun"
+            },
+            "definitions": [
+                {
+                    "type": {
+                        "en": "countable, uncountable"
+                    },
+                    "definition": {
+                        "en": "the act of selling someone property, food, or other goods"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Tickets go on sale (=become available to buy) later this week."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "The public protested at the sale of land for industrial development."
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "A house sale may be completed in four weeks."
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "Every time we make a sale, I get $50 commission."
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "Rather than lose a sale, car salesmen will often bring down the price."
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "definition": {
+                        "en": "available to be bought"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Executives said the firm may be for sale."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "We don’t have a for sale sign up outside the building."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "She recently put her house up for sale."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "definition": {
+                        "en": "available for a short time at a reduced price"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "I bought a set of iron skillets on sale for $8.99."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "countable"
+                    },
+                    "definition": {
+                        "en": "a period of time when a shop sells its goods at lower prices than usual"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "The drugstore downtown is having a sale, and some things are down to half price."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "plural"
+                    },
+                    "definition": {
+                        "en": "when shops are selling their goods at lower prices than usual"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "You might be able to get a cheap bed in the sales."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "The cost of footwear was reduced by 12% at the January sales."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "countable"
+                    },
+                    "definition": {
+                        "en": "an event at which things are sold, especially to the person who offers the highest price"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "a sale of 17th century paintings"
+                            },
+                            "note": {
+                                "type": "grammar",
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "plural"
+                    },
+                    "definition": {
+                        "en": "the total number of products that a company sells during a particular period of time"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "We grossed more than £500,000 in sales last year."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "The rate of sales growth slowed in the second half of the year."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "They’ve already reached their sales targets for this year."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "Do you have this month’s sales figures?"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": {
+                        "en": "uncountable"
+                    },
+                    "definition": {
+                        "en": "the part of a company that deals with selling products"
+                    },
+                    "example": [
+                        {
+                            "text": {
+                                "en": "I’d like to work in sales."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "She is director of sales and marketing."
+                            }
+                        },
+                        {
+                            "text": {
+                                "en": "a sales manager"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

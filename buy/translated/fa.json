@@ -1,6 +1,6 @@
 {
     "word": {
-        "en": "buy"
+        "en": "buy 2222"
     },
     "pronounciation": {
         "phonetics": "seɪl",
@@ -16,126 +16,362 @@
         {
             "pos": {
                 "en": "noun"
-            },
+            }
+        },
+        {
             "definitions": [
                 {
                     "type": {
                         "en": "countable, uncountable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "when you sell something"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "Harvey gets a $50 commission every time he makes a sale  (=sells something as part of his job)."
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-001640653.mp3"
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "Car salesmen will often bring down the price rather than lose a sale  (=fail to sell something)."
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-001640658.mp3"
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "arms sales to Iran"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-001640663.mp3"
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "The use and sale of marijuana remains illegal."
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-000741140.mp3"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "note": {
-                                "type": "grammar",
+                                "type": "grammar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
                                 "text": {
                                     "en": "sale of"
                                 }
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "countable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "a period of time when shops sell their goods at lower prices than usual"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "Marsdon’s department store is having a sale this week."
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-001640706.mp3"
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "I picked up some real bargains in the January sales this year."
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-000741174.mp3"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "note": {
-                                "type": "collocation",
+                                "type": "collocation"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
                                 "text": {
                                     "en": "the sales"
                                 }
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "countable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "an event at which things are sold to the person who offers the highest price"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "synonym": {
                         "en": "auction"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "a sale of 17th-century paintings"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "audio": {
                                 "en": "exaProns/p008-000741185.mp3"
                             }
                         }
                     ]
                 }
-            ],
+            ]
+        },
+        {
             "note_box": [
                 {
-                    "type": "collo_box",
+                    "type": "collo_box"
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
                     "heading": {
                         "en": "– Meaning 1: when you sell something"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
                     "sections": [
                         {
                             "form": {
                                 "en": "verbs"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "make a sale"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -143,11 +379,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "lose a sale"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -157,16 +419,48 @@
                                     ]
                                 }
                             ]
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
                         {
                             "form": {
                                 "en": "adjectives"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "a quick sale"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -178,22 +472,62 @@
                             ]
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "note_box": [
                 {
-                    "type": "collo_box",
+                    "type": "collo_box"
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
                     "heading": {
                         "en": "– Meaning 2:"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
                     "sections": [
                         {
                             "form": {
                                 "en": "ADJECTIVES/NOUN + sales"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "strong"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -201,11 +535,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "disappointing"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -213,11 +573,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "record sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -225,11 +611,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "car/ticket/book etc sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -237,11 +649,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "annual sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -249,11 +687,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "worldwide sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -261,11 +725,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "retail sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -273,11 +763,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "export sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -285,11 +801,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "high-street sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -299,16 +841,48 @@
                                     ]
                                 }
                             ]
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
                         {
                             "form": {
                                 "en": "verbs"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "sales increase/rise/grow/go up"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -316,11 +890,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "sales fall/drop/go down"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -328,11 +928,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "sales improve"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -340,11 +966,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "sales soar"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -352,11 +1004,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "sales slump"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -366,16 +1044,48 @@
                                     ]
                                 }
                             ]
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
                         {
                             "form": {
                                 "en": "sales + NOUN"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "sales figures"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -383,11 +1093,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "a sales target"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -395,11 +1131,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "the sales force"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -407,11 +1169,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "sales performance"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -419,11 +1207,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "the sales forecast"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -433,16 +1247,48 @@
                                     ]
                                 }
                             ]
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
                         {
                             "form": {
                                 "en": "phrases"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
                             "items": [
                                 {
                                     "collocation": {
                                         "en": "an increase/growth in sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -450,11 +1296,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "a fall/drop in sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -462,11 +1334,37 @@
                                             }
                                         }
                                     ]
-                                },
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
                                 {
                                     "collocation": {
                                         "en": "the volume of sales"
-                                    },
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "note_box": [
+                {
+                    "sections": [
+                        {
+                            "items": [
+                                {
                                     "example": [
                                         {
                                             "text": {
@@ -484,93 +1382,263 @@
         {
             "pos": {
                 "en": "noun"
-            },
+            }
+        },
+        {
             "definitions": [
                 {
                     "type": {
                         "en": "countable, uncountable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "the act of selling someone property, food, or other goods"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "Tickets go on sale (=become available to buy) later this week."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "The public protested at the sale of land for industrial development."
-                            },
-                            "note": {
-                                "type": "grammar",
-                                "text": {
-                                    "en": "sale of"
-                                }
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
-                            "text": {
-                                "en": "A house sale may be completed in four weeks."
-                            },
                             "note": {
-                                "type": "grammar",
-                                "text": {
-                                    "en": "sale of"
-                                }
+                                "type": "grammar"
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
-                            "text": {
-                                "en": "Every time we make a sale, I get $50 commission."
-                            },
                             "note": {
-                                "type": "grammar",
-                                "text": {
-                                    "en": "sale of"
-                                }
-                            }
-                        },
-                        {
-                            "text": {
-                                "en": "Rather than lose a sale, car salesmen will often bring down the price."
-                            },
-                            "note": {
-                                "type": "grammar",
                                 "text": {
                                     "en": "sale of"
                                 }
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "text": {
+                                "en": "A house sale may be completed in four weeks."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "type": "grammar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Every time we make a sale, I get $50 commission."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "type": "grammar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "text": {
+                                "en": "Rather than lose a sale, car salesmen will often bring down the price."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "type": "grammar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
+                                "text": {
+                                    "en": "sale of"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "definition": {
                         "en": "available to be bought"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "Executives said the firm may be for sale."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "We don’t have a for sale sign up outside the building."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "She recently put her house up for sale."
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "definition": {
                         "en": "available for a short time at a reduced price"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
@@ -578,14 +1646,30 @@
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "countable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "a period of time when a shop sells its goods at lower prices than usual"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
@@ -593,96 +1677,230 @@
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "plural"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "when shops are selling their goods at lower prices than usual"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "You might be able to get a cheap bed in the sales."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "The cost of footwear was reduced by 12% at the January sales."
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "countable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "an event at which things are sold, especially to the person who offers the highest price"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "a sale of 17th century paintings"
-                            },
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
                             "note": {
-                                "type": "grammar",
+                                "type": "grammar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
+                        {
+                            "note": {
                                 "text": {
                                     "en": "sale of"
                                 }
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "plural"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "the total number of products that a company sells during a particular period of time"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "We grossed more than £500,000 in sales last year."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "The rate of sales growth slowed in the second half of the year."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "They’ve already reached their sales targets for this year."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "Do you have this month’s sales figures?"
                             }
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "definitions": [
                 {
                     "type": {
                         "en": "uncountable"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "definition": {
                         "en": "the part of a company that deals with selling products"
-                    },
+                    }
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
                     "example": [
                         {
                             "text": {
                                 "en": "I’d like to work in sales."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "She is director of sales and marketing."
                             }
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "definitions": [
+                {
+                    "example": [
                         {
                             "text": {
                                 "en": "a sales manager"
